@@ -1,0 +1,18 @@
+# Data privada — NO subir al repo
+data/leads/*.csv
+data/*.csv
+data/*.json
+
+# Excepciones: mantener la carpeta
+!data/.gitkeep
+!data/leads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
