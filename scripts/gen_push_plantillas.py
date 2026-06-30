@@ -410,6 +410,7 @@ def build_html():
     <a class="navbtn" href="index.html" style="text-decoration:none;background:transparent;color:#cbd5e1;padding:11px 26px;border-radius:30px;font-size:13px;font-weight:700;border:1px solid #374151;transition:all .2s">Push de Campañas</a>
     <a class="navbtn" href="push_plantillas.html" style="text-decoration:none;background:linear-gradient(90deg,#fe006b,#712fd1);color:#fff;padding:11px 26px;border-radius:30px;font-size:13px;font-weight:800;box-shadow:0 4px 18px rgba(254,0,107,.35)">Rendimiento de Plantillas</a>
     <a class="navbtn" href="proyeccion_presupuesto.html" style="text-decoration:none;background:transparent;color:#cbd5e1;padding:11px 26px;border-radius:30px;font-size:13px;font-weight:700;border:1px solid #374151;transition:all .2s">Proyección de Presupuesto</a>
+    <a class="navbtn" href="meta_ads_metricas.html" style="text-decoration:none;background:transparent;color:#cbd5e1;padding:11px 26px;border-radius:30px;font-size:13px;font-weight:700;border:1px solid #374151;transition:all .2s">Meta Ads — Métricas</a>
   </div>
 </div></div>"""
 
